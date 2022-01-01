@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 7540a7fdb0479ff42a7c7bff0165a64e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AvatarQ_Kiana_C5_04_02
+    100004: Bip001
+    100006: Bip001_Head
+    100008: Bip001_HeadNub
+    100010: Bip001_L_Calf
+    100012: Bip001_L_Clavicle
+    100014: Bip001_L_Finger0
+    100016: Bip001_L_Finger0Nub
+    100018: Bip001_L_Finger1
+    100020: Bip001_L_Finger1Nub
+    100022: Bip001_L_Foot
+    100024: Bip001_L_Forearm
+    100026: Bip001_L_Hand
+    100028: Bip001_L_Thigh
+    100030: Bip001_L_Toe0
+    100032: Bip001_L_Toe0Nub
+    100034: Bip001_L_UpperArm
+    100036: Bip001_Neck
+    100038: Bip001_Pelvis
+    100040: Bip001_R_Calf
+    100042: Bip001_R_Clavicle
+    100044: Bip001_R_Finger0
+    100046: Bip001_R_Finger0Nub
+    100048: Bip001_R_Finger1
+    100050: Bip001_R_Finger1Nub
+    100052: Bip001_R_Foot
+    100054: Bip001_R_Forearm
+    100056: Bip001_R_Hand
+    100058: Bip001_R_Thigh
+    100060: Bip001_R_Toe0
+    100062: Bip001_R_Toe0Nub
+    100064: Bip001_R_UpperArm
+    100066: Bip001_Spine
+    100068: Bip001_Spine1
+    100070: blush
+    100072: Body
+    100074: Eye_L
+    100076: Eye_R
+    100078: FFX_QAvatar
+    100080: Kiana_C5_04_02_Hair_F_01
+    100082: Kiana_C5_04_02_Hair_F_02
+    100084: Kiana_C5_04_02_Hair_F_03
+    100086: Kiana_C5_04_02_Hair_LB_01
+    100088: Kiana_C5_04_02_Hair_LB_02
+    100090: Kiana_C5_04_02_Hair_LB_03
+    100092: Kiana_C5_04_02_Hair_LB_04
+    100094: Kiana_C5_04_02_Hair_RB_01
+    100096: Kiana_C5_04_02_Hair_RB_02
+    100098: Kiana_C5_04_02_Hair_RB_03
+    100100: Kiana_C5_04_02_Hair_RB_04
+    100102: Kiana_C5_04_02_Qiang_01
+    100104: Kiana_C5_04_02_Qiang_02
+    100106: Kiana_C5_04_02_Qiang_03
+    100108: Kiana_C5_04_02_Qiang_04
+    100110: Kiana_C5_04_02_Qiang_05
+    100112: Kiana_C5_04_02_Qiang_06
+    100114: Kiana_C5_04_02_Skirt_L_01
+    100116: Kiana_C5_04_02_Skirt_L_02
+    100118: Kiana_C5_04_02_Skirt_R_01
+    100120: Kiana_C5_04_02_Skirt_R_02
+    100122: Kiana_C5_04_02_Wing_01
+    100124: Kiana_C5_04_02_Wing_02
+    100126: Kiana_C5_04_02_Wing_03
+    100128: Kiana_C5_04_02_Wing_04
+    100130: Kiana_C5_04_02_Wing_05
+    100132: Kiana_C5_04_02_Wing_06
+    100134: Kiana_C5_04_02_Wing_07
+    100136: Kiana_C5_04_02_Wing_08
+    100138: Mouth
+    400000: //RootNode
+    400002: AvatarQ_Kiana_C5_04_02
+    400004: Bip001
+    400006: Bip001_Head
+    400008: Bip001_HeadNub
+    400010: Bip001_L_Calf
+    400012: Bip001_L_Clavicle
+    400014: Bip001_L_Finger0
+    400016: Bip001_L_Finger0Nub
+    400018: Bip001_L_Finger1
+    400020: Bip001_L_Finger1Nub
+    400022: Bip001_L_Foot
+    400024: Bip001_L_Forearm
+    400026: Bip001_L_Hand
+    400028: Bip001_L_Thigh
+    400030: Bip001_L_Toe0
+    400032: Bip001_L_Toe0Nub
+    400034: Bip001_L_UpperArm
+    400036: Bip001_Neck
+    400038: Bip001_Pelvis
+    400040: Bip001_R_Calf
+    400042: Bip001_R_Clavicle
+    400044: Bip001_R_Finger0
+    400046: Bip001_R_Finger0Nub
+    400048: Bip001_R_Finger1
+    400050: Bip001_R_Finger1Nub
+    400052: Bip001_R_Foot
+    400054: Bip001_R_Forearm
+    400056: Bip001_R_Hand
+    400058: Bip001_R_Thigh
+    400060: Bip001_R_Toe0
+    400062: Bip001_R_Toe0Nub
+    400064: Bip001_R_UpperArm
+    400066: Bip001_Spine
+    400068: Bip001_Spine1
+    400070: blush
+    400072: Body
+    400074: Eye_L
+    400076: Eye_R
+    400078: FFX_QAvatar
+    400080: Kiana_C5_04_02_Hair_F_01
+    400082: Kiana_C5_04_02_Hair_F_02
+    400084: Kiana_C5_04_02_Hair_F_03
+    400086: Kiana_C5_04_02_Hair_LB_01
+    400088: Kiana_C5_04_02_Hair_LB_02
+    400090: Kiana_C5_04_02_Hair_LB_03
+    400092: Kiana_C5_04_02_Hair_LB_04
+    400094: Kiana_C5_04_02_Hair_RB_01
+    400096: Kiana_C5_04_02_Hair_RB_02
+    400098: Kiana_C5_04_02_Hair_RB_03
+    400100: Kiana_C5_04_02_Hair_RB_04
+    400102: Kiana_C5_04_02_Qiang_01
+    400104: Kiana_C5_04_02_Qiang_02
+    400106: Kiana_C5_04_02_Qiang_03
+    400108: Kiana_C5_04_02_Qiang_04
+    400110: Kiana_C5_04_02_Qiang_05
+    400112: Kiana_C5_04_02_Qiang_06
+    400114: Kiana_C5_04_02_Skirt_L_01
+    400116: Kiana_C5_04_02_Skirt_L_02
+    400118: Kiana_C5_04_02_Skirt_R_01
+    400120: Kiana_C5_04_02_Skirt_R_02
+    400122: Kiana_C5_04_02_Wing_01
+    400124: Kiana_C5_04_02_Wing_02
+    400126: Kiana_C5_04_02_Wing_03
+    400128: Kiana_C5_04_02_Wing_04
+    400130: Kiana_C5_04_02_Wing_05
+    400132: Kiana_C5_04_02_Wing_06
+    400134: Kiana_C5_04_02_Wing_07
+    400136: Kiana_C5_04_02_Wing_08
+    400138: Mouth
+    2100000: Avatar_Q_Kiana_C5_04_02_Material_Color
+    2100002: Avatar_Q_Kiana_C5_04_02_Texture_Alpha
+    2100004: Avatar_Q_Kiana_C5_04_02_Material_Wings
+    2100006: No Name
+    2300000: Body
+    2300002: Eye_L
+    2300004: Eye_R
+    2300006: Mouth
+    3300000: Body
+    3300002: Eye_L
+    3300004: Eye_R
+    3300006: Mouth
+    4300000: Body
+    4300002: Eye_L
+    4300004: Eye_R
+    4300006: Mouth
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eye_L
+    13700004: Eye_R
+    13700006: Mouth
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Q_Kiana_C5_04_02_Material_Color
+    second: {fileID: 2100000, guid: 7af49fe4cb7be7940b2571c5a65d341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Q_Kiana_C5_04_02_Material_Wings
+    second: {fileID: 2100000, guid: 7af49fe4cb7be7940b2571c5a65d341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Avatar_Q_Kiana_C5_04_02_Texture_Alpha
+    second: {fileID: 2100000, guid: 7af49fe4cb7be7940b2571c5a65d341a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 44b866b9844cb9b45a40534607acfa2f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

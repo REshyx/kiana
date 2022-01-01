@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: eccbd10023504564586efeaf40233de8
-  - enabled: 1
+  - enabled: 0
     path: Assets/WindowsTool/testScene.unity
     guid: e0155e9d156c5bc419a93806e3de0ab3
   m_configObjects: {}

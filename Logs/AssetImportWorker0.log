@@ -1,0 +1,194 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.24f1c2 (f3616f7ef48a) revision 15950191'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16257 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\Unity 2020.3.24f1c2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/文档/unity/Kiana/Kiana
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+6014
+Successfully changed project path to: E:/文档/unity/Kiana/Kiana
+E:/文档/unity/Kiana/Kiana
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.Refreshing native plugins compatible for Editor in 75.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.24f1c2 (f3616f7ef48a)
+[Subsystems] Discovering subsystems at path E:/Unity 2020.3.24f1c2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/文档/unity/Kiana/Kiana/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'E:/Unity 2020.3.24f1c2/Editor/Data/Managed'
+Mono path[1] = 'E:/Unity 2020.3.24f1c2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Unity 2020.3.24f1c2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Unity 2020.3.24f1c2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001158 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.969 seconds
+Domain Reload Profiling:
+	ReloadAssembly (970ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (771ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (257ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (70ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (145ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.135 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2137ms)
+		BeginReloadAssembly (304ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (1733ms)
+			LoadAssemblies (234ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (601ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (660ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (157ms)
+				ProcessInitializeOnLoadAttributes (408ms)
+				ProcessInitializeOnLoadMethodAttributes (81ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2153 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 2549.
+Total: 9.223200 ms (FindLiveObjects: 0.430700 ms CreateObjectMapping: 0.141800 ms MarkObjects: 8.492100 ms  DeleteObjects: 0.156900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Kiana/1。.png
+  artifactKey: Guid(ce2550e7278b42b4582387b7fb22e42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kiana/1。.png using Guid(ce2550e7278b42b4582387b7fb22e42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8177cffac24f4503c458a7cdcc66fe72') in 0.119916 seconds 
+  Import took 0.125832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Kiana/AvatarQ_Kiana_C5_04_02.fbx
+  artifactKey: Guid(7540a7fdb0479ff42a7c7bff0165a64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kiana/AvatarQ_Kiana_C5_04_02.fbx using Guid(7540a7fdb0479ff42a7c7bff0165a64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b09fa1fe61c60c540b9acba36bb780b') in 1.409299 seconds 
+  Import took 1.415796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Kiana/Avatar_Q_Kiana_C5_04_02_Texture_Color.png
+  artifactKey: Guid(fe368b4646dc20b4e94af602c2a89831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kiana/Avatar_Q_Kiana_C5_04_02_Texture_Color.png using Guid(fe368b4646dc20b4e94af602c2a89831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28ec85f84ac72cd2cc431e9e120ff5c') in 0.013544 seconds 
+  Import took 0.021699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Kiana/1c.png
+  artifactKey: Guid(3b47ea188d728524da3a94999a51bbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kiana/1c.png using Guid(3b47ea188d728524da3a94999a51bbf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e6e946ad076cd3f35acd5dada635e3') in 0.266456 seconds 
+  Import took 0.273445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Kiana/3.png
+  artifactKey: Guid(56750b6b147b1ec4b93e9b4bf33e0237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kiana/3.png using Guid(56750b6b147b1ec4b93e9b4bf33e0237) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2ecc0c4cefcb1b8cfc9ee9cdeb9d40') in 0.014492 seconds 
+  Import took 0.022700 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 18.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 58 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 11.717000 ms (FindLiveObjects: 0.250000 ms CreateObjectMapping: 0.107800 ms MarkObjects: 11.310900 ms  DeleteObjects: 0.044900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
