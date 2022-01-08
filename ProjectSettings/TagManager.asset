@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Avatar
   - ALL
+  - route
+  - text1
   layers:
   - Default
   - TransparentFX
